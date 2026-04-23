@@ -18,7 +18,7 @@ A comprehensive and interactive desktop application designed for efficient acade
 ## 🚀 How to Run the Project
 1. Clone the repository:
    `bash
-   git clone [https://github.com/Adisu-Dev/Library-Management-System.git](https://github.com/Adisu-Dev/Library-Management-System.git)
+   git clone [https://github.com/Adisu-Dev/Library-Management-System.git](https://github.com/dawita19-picsle/Library-Management-System.git)
 
    Database Setup:
 
@@ -36,15 +36,15 @@ Ensure JavaFX SDK is correctly configured in your project structure.
 
 Run the main application class.
 
-3. 👨‍💻 Developer
+3. 👨‍💻 Developed by
 Dawit Ayalew
 
 3rd Year IT Student at Bahir Dar University
 
-GitHub: @dawita19-picsle
+GitHub:[https://github.com/dawita19-picsle](https://github.com/dawita19-picsle/Library-Management-System/edit/main/README.md)
 
 LinkedIn: Dawit Ayalew
 
-Telegram: @dave19199
+Telegram: https://t.me/dave19199
 
 This project was developed as part of an academic presentation to demonstrate practical skills in full-stack desktop application development.

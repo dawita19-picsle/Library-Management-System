@@ -18,7 +18,7 @@ A comprehensive and interactive desktop application designed for efficient acade
 ## 🚀 How to Run the Project
 1. Clone the repository:
    `bash
-   git clone [https://github.com/Adisu-Dev/Library-Management-System.git](https://github.com/dawita19-picsle/Library-Management-System.git)
+   git clone [https://github.com/Dawit-Ayalew/Library-Management-System.git](https://github.com/dawita19-picsle/Library-Management-System.git)
 
    Database Setup:
 

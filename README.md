@@ -41,7 +41,7 @@ Dawit Ayalew
 
 3rd Year IT Student at Bahir Dar University
 
-GitHub:[https://github.com/dawita19-picsle](https://github.com/dawita19-picsle/Library-Management-System/edit/main/README.md)
+GitHub:[https://github.com/dawita19-picsle](https://github.com/dawita19-picsle/Library-Management-System/edit/main)
 
 LinkedIn: Dawit Ayalew
 
